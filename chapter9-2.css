@@ -73,10 +73,10 @@ footer {
     width: 100%;
     display: block;
   }
-
   
   .step-item {
-    margin: 15px auto;
+    width: 90%;
+    margin-bottom: 20px ;
   }
   
   footer {
